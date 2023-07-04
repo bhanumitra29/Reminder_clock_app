@@ -102,7 +102,7 @@ label{
 
 #text1{
     color: white;
-    text-align: start;
+    text-align: center;
     margin: 0 auto; 
 }
 
@@ -578,7 +578,7 @@ select{
 
 #text1{
     color: white;
-    text-align: start;
+    text-align: center;
     margin: 0 auto; 
     font-size: large;
 }
